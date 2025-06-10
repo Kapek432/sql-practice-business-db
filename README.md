@@ -29,5 +29,3 @@ This repository includes hands-on practice with the following SQL topics:
 * Build confidence in writing efficient, readable, and correct SQL
 * Explore real-life scenarios with queries that simulate business questions
 * Prepare for technical interviews and data analytics tasks
-
--
