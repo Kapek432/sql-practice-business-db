@@ -2,6 +2,8 @@
 
 This project is focused on developing and testing SQL skills using a rich set of real-world query patterns. It uses a multi-table business-style database and covers a wide range of SQL functionalities essential for data analysis, reporting, and application development.
 
+![alt text](db-schema.png)
+
 ### 🎯 Key SQL Topics Practiced
 
 This repository includes hands-on practice with the following SQL topics:
@@ -13,7 +15,7 @@ This repository includes hands-on practice with the following SQL topics:
 * **UNION / UNION ALL** – combining result sets
 * **Subqueries** – scalar, correlated, and table subqueries
 * **CTEs (Common Table Expressions)** – including recursive CTEs
-* **Triggers and Events** – automatic execution on data changes or scheduled events
+* **Triggers** – automatic execution on data changes
 * **Stored Procedures vs Functions** – procedural logic, input parameters, return values
 * **Temporary Tables** – using `#temp` and `@table` variables for intermediate steps
 * **ALTER, MODIFY, DELETE** – schema and data manipulation
